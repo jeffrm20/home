@@ -22,15 +22,13 @@
   <center>Arnold Better Altitude Webcam</center>
 <center><iframe type="text/html" frameborder="0" width="1600" height="900" src="//video.nest.com/embedded/live/1vU1V7Dils?autoplay=1" allowfullscreen></iframe></center>
   
-<center><img src="http://173.160.20.133/now.jpg"></center> 
+
   
   
 <center>Arnold Webcam</center>
 
-<center><img src="http://173.160.20.133/now.jpg?raw=true"/></center>
-  <img src="http://173.160.20.133/now.jpg"/></center>
+<center><img src="http://173.160.20.133/now.jpg"/></center>
 
-<img src="{{site.url}}http://173.160.20.133/now.jpg" style="display: block; margin: auto;" />
 
 
 
