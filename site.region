@@ -17,6 +17,8 @@
 <center>Arnold Webcam</center>
   <img src="http://173.160.20.133/now.jpg"/></center>
 
+<img src="http://173.160.20.133/now.jpg" alt="hi" class="inline"/>
+
 
 
 
