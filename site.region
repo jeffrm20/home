@@ -19,6 +19,17 @@
 <br>
 
 <p>
+
+<center>Arnold Webcam</center>
+
+<center><img src="http://173.160.20.133/now.jpg"/></center>
+
+<center><iframe src= "173.160.20.133" width="1600px" height="904px" frameborder="0" allowfullscreen> </iframe></center>
+
+<br>
+
+<p>
+
   <center>Arnold Better Altitude Webcam</center>
 <center><iframe type="text/html" frameborder="0" width="1600" height="900" src="//video.nest.com/embedded/live/1vU1V7Dils?autoplay=1" allowfullscreen></iframe></center>
 
@@ -62,9 +73,7 @@
 
   
   
-<center>Arnold Webcam</center>
 
-<center><img src="http://173.160.20.133/now.jpg"/></center>
 
 
 
