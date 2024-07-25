@@ -1,5 +1,11 @@
 <!DOCTYPE html>
 <html>
+<center> <div class="image-wrapper">
+  <img src="/MLOlogo.jpg">
+  <div class="overlay">
+    <div class="overlay-text">Digital Design</div>
+  </div>
+</div></center>
 
   <center>Motherlode Outdoors Hathaway Pines Webcam
 
