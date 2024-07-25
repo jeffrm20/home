@@ -18,7 +18,14 @@
   <img src="http://173.160.20.133/now.jpg"/></center>
 
 
-<img src="http://173.160.20.133/now.jpg" width="50%" />
+
+
+<div class="image-wrapper">
+  <img src="http://173.160.20.133/now.jpg">
+  <div class="overlay">
+    <div class="overlay-text">Digital Design</div>
+  </div>
+</div>
 
 
    <center><iframe src="https://mccarthy.3deye.me/Embed?widget_id=dafbd0808a14481faf3831ba4d1a1afd&widget_token=LcqtRh8WQD6eSS2oQS9mppbSpPDEdxxLEMPLYu5uMYTFgE6HARL5xCz0B7ECezsxKrAGcQV0ujaw33LLR1ERMzsCrUjzQ1Qrf0ztEXeP1pInbD6ESYpiVBLp86TnG1KyyOqBbWgZWUV3reaovfHXkh2EPKuGdviAfoUSR3c1RvRBko6Z4ewaTrOqrmRWbaVALVWcPN5Z77363020a9844a2ca8e8feb1195f4ce4" allowfullscreen width="1120" height="630" frameborder="0" allow="autoplay; encrypted-media; picture-in-picture;"></center>
