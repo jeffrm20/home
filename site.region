@@ -22,8 +22,8 @@
 
 <center>Arnold Webcam</center>
 
-<center><iframe src= "http://173.160.20.133/livevid.html" width="1600px" height="904px" frameborder="0" allowfullscreen> </iframe></center>
-<center><img src="http://173.160.20.133/livevid.html"/></center>
+<center><iframe src= "http://173.160.20.133/now.jpg?snap=spush?dummy=1721902987962" width="1600px" height="904px" frameborder="0" allowfullscreen> </iframe></center>
+<center><img src="http://173.160.20.133/now.jpg?snap=spush?dummy=1721902987962"/></center>
 <img border="0" width="720" height="480" onmousedown="return false;" src="http://173.160.20.133/now.jpg?snap=spush?dummy=1721902987962">
 
 
