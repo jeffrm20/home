@@ -176,7 +176,31 @@
 
 
   
+<script type="module">
+        import {CamConsole as CamConsoleV3} from '/js/modules/Camera/CamConsole.js';
+        import {CamConsole} from '/js/modules/Mobile/CamConsoleMobile.js';
 
+    if (window.CamConsoleModifier &&!(screen?.orientation?.type=='portrait-primary')) {
+        CamConsoleModifier(CamConsoleV3);
+    }    
+    
+    /*var state = getStateFromHostname();
+    if (state != 'CA' || window.location.href.includes('ops.')) {*/
+    var camConsole=false;
+    if(bIsMobile() && globals.ldclient.variation('cam-console-mobile', false)) {
+        globals.loadedMobile=true;
+        camConsole = new CamConsole(2680, {"camid":"2680","camname":"Blue_Mtn_Calaveras_2","camnodeid":null,"camhostname":"Axis-BlueMtnCalaveras2","camnoteupdated":"2024-07-10 22:54:03.621695+00","camcounty":"Calaveras","camstaticetr":null,"camstaticoutresid":null,"camprivate":false,"camsponsor":"PG&E","camstate":"CA","camclass":"axis","camstaticoutresname":null,"userid":null,"expiration":null,"provider":"UCSD","providerlink":"https:\/\/alertcalifornia.org\/","providerlogo":"\/img\/alertcalifornia-ucsd-logo.png","providerlogosquare":"\/img\/alertcalifornia-ucsd-logo-square.png"});
+    }else{
+        camConsole =new CamConsoleV3(2680, {"camid":"2680","camname":"Blue_Mtn_Calaveras_2","camnodeid":null,"camhostname":"Axis-BlueMtnCalaveras2","camnoteupdated":"2024-07-10 22:54:03.621695+00","camcounty":"Calaveras","camstaticetr":null,"camstaticoutresid":null,"camprivate":false,"camsponsor":"PG&E","camstate":"CA","camclass":"axis","camstaticoutresname":null,"userid":null,"expiration":null,"provider":"UCSD","providerlink":"https:\/\/alertcalifornia.org\/","providerlogo":"\/img\/alertcalifornia-ucsd-logo.png","providerlogosquare":"\/img\/alertcalifornia-ucsd-logo-square.png"});
+    }
+    if(!camConsole){
+        console.warn('fallback loaded');
+        camConsole = new CamConsole(2680, {"camid":"2680","camname":"Blue_Mtn_Calaveras_2","camnodeid":null,"camhostname":"Axis-BlueMtnCalaveras2","camnoteupdated":"2024-07-10 22:54:03.621695+00","camcounty":"Calaveras","camstaticetr":null,"camstaticoutresid":null,"camprivate":false,"camsponsor":"PG&E","camstate":"CA","camclass":"axis","camstaticoutresname":null,"userid":null,"expiration":null,"provider":"UCSD","providerlink":"https:\/\/alertcalifornia.org\/","providerlogo":"\/img\/alertcalifornia-ucsd-logo.png","providerlogosquare":"\/img\/alertcalifornia-ucsd-logo-square.png"});
+    }
+    /*} else {
+        var camConsole = new CamConsole(2680, {"camid":"2680","camname":"Blue_Mtn_Calaveras_2","camnodeid":null,"camhostname":"Axis-BlueMtnCalaveras2","camnoteupdated":"2024-07-10 22:54:03.621695+00","camcounty":"Calaveras","camstaticetr":null,"camstaticoutresid":null,"camprivate":false,"camsponsor":"PG&E","camstate":"CA","camclass":"axis","camstaticoutresname":null,"userid":null,"expiration":null,"provider":"UCSD","providerlink":"https:\/\/alertcalifornia.org\/","providerlogo":"\/img\/alertcalifornia-ucsd-logo.png","providerlogosquare":"\/img\/alertcalifornia-ucsd-logo-square.png"});
+    }*/
+</script>		
  
 
 </html>
