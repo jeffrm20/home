@@ -27,43 +27,27 @@ body{
 
 <p>
 <!DOCTYPE html>
-<html>
+<html lang="en">
+
 <head>
-  <style>
-    .grid-container {
-      display: grid;
-      grid-template-columns: repeat(10, 1fr);
-      grid-template-rows: repeat(10, 1fr);
-      gap: 1px;
-      width: 500px;
-      height: 500px;
-      border: 1px solid black;
-    }
-
-    .grid-item {
-      background-color: lightgray;
-    }
-  </style>
+   <center> <style>
+        .textbox {
+            width: 110px;
+            height: 32px;
+            padding: 10px -10px 10px 10px;
+            border: 5px solid black;
+            margin: 0;
+        }
+    </style>
 </head>
+
 <body>
-
-<div class="grid-container">
-  <!-- generate the grid items dynamically using JavaScript -->
-</div>
-
-<script>
-  const gridContainer = document.querySelector('.grid-container');
-
-  // create 100 grid items
-  for (let i = 0; i < 100; i++) {
-    const gridItem = document.createElement('div');
-    gridItem.classList.add('grid-item');
-    gridContainer.appendChild(gridItem);
-  }
-</script>
-
+  
+    <h1>
+        <span class="textbox">Tutorials</span>Point
+    </h1>
 </body>
-</html>
+</center>
 <br>
 
 
