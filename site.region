@@ -32,10 +32,11 @@ body{
 <head>
    <center> <style>
         .textbox {
-            width: 110px;
-            height: 32px;
+            width: 800px;
+            height: 100px;
             padding: 10px -10px 10px 10px;
             border: 5px solid black;
+            background: black
             margin: 0;
         }
     </style>
@@ -44,7 +45,7 @@ body{
 <body>
   
     <h1>
-        <span class="textbox">Tutorials</span>Point
+        <span class="Please donate here!">Tutorials</span>
     </h1>
 </body>
 </center>
