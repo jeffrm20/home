@@ -25,29 +25,35 @@ body{
 
 <hr>
 
-<p>
-<!DOCTYPE html>
-<html lang="en">
+
 
 <head>
-   <center> <style>
-        .textbox {
-            width: 800px;
-            height: 100px;
-            padding: 10px -10px 10px 10px;
-            border: 5px solid black;
-            background: black
-            margin: 0;
-        }
-    </style>
-</head>
+   <center> .squares {
+  display: flex;
+  justify-content: center;
+}
+.icon1, {
+    width: 800px;
+    height: 200px;
+    background: #F5F8FA;
+}
 
-<body>
-  
-    <h1>
-        <span class="textbox">Please donate below!</span>Point
-    </h1>
-</body>
+
+ .icon1 {
+        margin-right: 10%;
+        border-style: ridge;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+    }   
+
+<div class="squares">
+      <div class="icon1">
+         <p>Please donate below!!</p>
+      </div>
+      
+     </div>
+ </div>
 </center>
 <br>
 
