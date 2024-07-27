@@ -4,10 +4,10 @@
 <html>
 
 
-
-
-
-
+<!DOCTYPE html>
+<html>
+<head>
+<style>
 .fixed-bg {
   /* The background image */
   background-image: url("https://github.com/jeffrm20/home/blob/master/Images/background.jpeg?raw=true");
@@ -27,6 +27,14 @@
   /* Scale the background image to be as large as possible */
   background-size: cover;
 }
+
+</style>
+</head>
+
+</html>
+
+
+
 
 
 
