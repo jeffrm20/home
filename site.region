@@ -3,10 +3,12 @@
 <!DOCTYPE html>
 <html>
 <style>
-body {
-  background-image: url('https://github.com/jeffrm20/home/blob/master/Images/background.jpeg?raw=true');
-  background-repeat: no-repeat;
-  background-attachment: fixed;
+
+body{
+    background-image: url('https://github.com/jeffrm20/home/blob/master/Images/background.jpeg?raw=true');
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
 }
 </style>
 
