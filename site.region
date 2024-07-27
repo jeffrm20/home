@@ -67,7 +67,33 @@ body{
 <hr>
 <br>
 <hr>
-  <center> <h1><strong>Motherlode Outdoors Hathaway Pines Webcam</strong></h1>
+ 
+
+   <center><!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <style>
+        .textbox {
+            width: 110px;
+            height: 32px;
+            background-color: #FFFFFF;
+            padding: 20px -20px 20px 20px;
+            border: 5px solid black;
+            margin: 0;
+        }
+    </style>
+</head>
+
+<body>
+   
+    </p>
+    <h1>
+<span class="textbox">Motherlode Outdoors Hathaway Pines Webcam</span>
+        
+    </h1>
+</body>
+</center>
 
 </center>
 
@@ -77,7 +103,33 @@ body{
 
 
 <p>
-<center> <h1><strong>Motherlode Outdoors Hathaway Pines Timelapse</strong></h1>
+
+
+   <center><!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <style>
+        .textbox {
+            width: 110px;
+            height: 32px;
+            background-color: #FFFFFF;
+            padding: 20px -20px 20px 20px;
+            border: 5px solid black;
+            margin: 0;
+        }
+    </style>
+</head>
+
+<body>
+   
+    </p>
+    <h1>
+<span class="textbox">Motherlode Outdoors Hathaway Pines Timelapse</span>
+        
+    </h1>
+</body>
+</center>
 
 </center>
 
