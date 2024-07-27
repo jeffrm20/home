@@ -28,32 +28,29 @@ body{
 
 
 <head>
-   <center> .squares {
-  display: flex;
-  justify-content: center;
-}
-.icon1, {
-    width: 800px;
-    height: 200px;
-    background: #F5F8FA;
-}
+   <center><!DOCTYPE html>
+<html lang="en">
 
+<head>
+    <style>
+        .textbox {
+            width: 110px;
+            height: 32px;
+            background-color: #555;
+            padding: 10px -10px 10px 10px;
+            border: 5px solid black;
+            margin: 0;
+        }
+    </style>
+</head>
 
- .icon1 {
-        margin-right: 10%;
-        border-style: ridge;
-        display: flex;
-        align-items: center;
-        justify-content: center;
-    }   
-
-<div class="squares">
-      <div class="icon1">
-         <p>Please donate below!!</p>
-      </div>
-      
-     </div>
- </div>
+<body>
+   
+    </p>
+    <h1>
+        <span class="Please help keep this page running by donating below. Use phone camera to open QR code">Tutorials</span>
+    </h1>
+</body>
 </center>
 <br>
 
