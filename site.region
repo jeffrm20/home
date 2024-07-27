@@ -2,36 +2,16 @@
 
 <!DOCTYPE html>
 <html>
-
-
-<!DOCTYPE html>
-<html>
-<head>
 <style>
-.fixed-bg {
-  /* The background image */
-  background-image: url("https://github.com/jeffrm20/home/blob/master/Images/background.jpeg?raw=true");
-
-  /* Set a specified height, or the minimum height for the background image */
-  min-height: 500px;
-
-  /* Set background image to fixed (don't scroll along with the page) */
-  background-attachment: fixed;
-
-  /* Center the background image */
-  background-position: center;
-
-  /* Set the background image to no repeat */
+body {
+  background-image: url('https://github.com/jeffrm20/home/blob/master/Images/background.jpeg?raw=true');
   background-repeat: no-repeat;
-
-  /* Scale the background image to be as large as possible */
-  background-size: cover;
+  background-attachment: fixed;
+  background-size: 100% 100%;
 }
-
 </style>
-</head>
 
-</html>
+
 
 
 
