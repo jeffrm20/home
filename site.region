@@ -7,7 +7,6 @@ body {
   background-image: url('https://github.com/jeffrm20/home/blob/master/Images/background.jpeg?raw=true');
   background-repeat: no-repeat;
   background-attachment: fixed;
-  background-size: 100% 100%;
 }
 </style>
 
