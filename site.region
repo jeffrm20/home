@@ -142,7 +142,31 @@ body{
 <p>
 
 
-<center>Lakemont HOA Arnold Webcam</center>
+ <center><!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <style>
+        .textbox {
+            width: 110px;
+            height: 32px;
+            background-color: #FFFFFF;
+            padding: 20px -20px 20px 20px;
+            border: 5px solid black;
+            margin: 0;
+        }
+    </style>
+</head>
+
+<body>
+   
+    </p>
+    <h1>
+<span class="textbox">Lakemont HOA Arnold Webcam</span>
+        
+    </h1>
+</body>
+</center>
 
 
 <center><img src="https://www.lakemontpines.org/webcam1/Cam1.jpg" width="1600" height="904"></center>
@@ -152,7 +176,33 @@ body{
 
 <p>
 
-  <center>Arnold Better Altitude Webcam</center>
+ 
+
+ <center><!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <style>
+        .textbox {
+            width: 110px;
+            height: 32px;
+            background-color: #FFFFFF;
+            padding: 20px -20px 20px 20px;
+            border: 5px solid black;
+            margin: 0;
+        }
+    </style>
+</head>
+
+<body>
+   
+    </p>
+    <h1>
+<span class="textbox">Arnold Better Altitude Webcam</span>
+        
+    </h1>
+</body>
+</center>
 <center><iframe type="text/html" frameborder="0" width="1600" height="900" src="//video.nest.com/embedded/live/1vU1V7Dils?autoplay=1" allowfullscreen></iframe></center>
 
 
@@ -160,7 +210,32 @@ body{
 
 <p>
 
-<center>Arnold CA Real Estate Webcam</center>
+
+ <center><!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <style>
+        .textbox {
+            width: 110px;
+            height: 32px;
+            background-color: #FFFFFF;
+            padding: 20px -20px 20px 20px;
+            border: 5px solid black;
+            margin: 0;
+        }
+    </style>
+</head>
+
+<body>
+   
+    </p>
+    <h1>
+<span class="textbox">Arnold CA Real Estate Webcam</span>
+        
+    </h1>
+</body>
+</center>
 
 
 <center><img src="http://173.160.20.133/now.jpg" width="1600" height="904"></center>
@@ -174,7 +249,31 @@ body{
 <p>
 
 
+ <center><!DOCTYPE html>
+<html lang="en">
 
+<head>
+    <style>
+        .textbox {
+            width: 110px;
+            height: 32px;
+            background-color: #FFFFFF;
+            padding: 20px -20px 20px 20px;
+            border: 5px solid black;
+            margin: 0;
+        }
+    </style>
+</head>
+
+<body>
+   
+    </p>
+    <h1>
+<span class="textbox">Blue Lake Springs Webcam</span>
+        
+    </h1>
+</body>
+</center>
  
  
 <center><iframe src= "https://mccarthy.3deye.me/Embed?widget_id=dafbd0808a14481faf3831ba4d1a1afd&widget_token=LcqtRh8WQD6eSS2oQS9mppbSpPDEdxxLEMPLYu5uMYTFgE6HARL5xCz0B7ECezsxKrAGcQV0ujaw33LLR1ERMzsCrUjzQ1Qrf0ztEXeP1pInbD6ESYpiVBLp86TnG1KyyOqBbWgZWUV3reaovfHXkh2EPKuGdviAfoUSR3c1RvRBko6Z4ewaTrOqrmRWbaVALVWcPN5Z77363020a9844a2ca8e8feb1195f4ce4" width="1600px" height="904px" frameborder="0" allowfullscreen> </iframe></center>
@@ -182,7 +281,33 @@ body{
 <br>
 
 <p>
-<center>Big Trees Webcam</center>
+
+
+ <center><!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <style>
+        .textbox {
+            width: 110px;
+            height: 32px;
+            background-color: #FFFFFF;
+            padding: 20px -20px 20px 20px;
+            border: 5px solid black;
+            margin: 0;
+        }
+    </style>
+</head>
+
+<body>
+   
+    </p>
+    <h1>
+<span class="textbox">Big Trees Webcam</span>
+        
+    </h1>
+</body>
+</center>
 
 
 
@@ -192,14 +317,62 @@ body{
 <p>
 
 
-   <center>Big Trees Webcam</center>
+   <center><!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <style>
+        .textbox {
+            width: 110px;
+            height: 32px;
+            background-color: #FFFFFF;
+            padding: 20px -20px 20px 20px;
+            border: 5px solid black;
+            margin: 0;
+        }
+    </style>
+</head>
+
+<body>
+   
+    </p>
+    <h1>
+<span class="textbox">Big Trees Webcam</span>
+        
+    </h1>
+</body>
+</center>
 
   <center><img src="http://bigtreeshome.com/chimney-current.jpg"  width="1600" height="904"></center>
 <br>
 
 <p>
 
-   <center>Big Trees Webcam</center>
+    <center><!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <style>
+        .textbox {
+            width: 110px;
+            height: 32px;
+            background-color: #FFFFFF;
+            padding: 20px -20px 20px 20px;
+            border: 5px solid black;
+            margin: 0;
+        }
+    </style>
+</head>
+
+<body>
+   
+    </p>
+    <h1>
+<span class="textbox">Big Trees Webcam</span>
+        
+    </h1>
+</body>
+</center>
   <center><img src="http://bigtreeshome.com/front-current.jpg"  width="1600" height="904"></center>
 <br>
 
@@ -207,7 +380,32 @@ body{
 
 
 
- <center>PGE Blue Mountain Calaveras</center>
+
+ <center><!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <style>
+        .textbox {
+            width: 110px;
+            height: 32px;
+            background-color: #FFFFFF;
+            padding: 20px -20px 20px 20px;
+            border: 5px solid black;
+            margin: 0;
+        }
+    </style>
+</head>
+
+<body>
+   
+    </p>
+    <h1>
+<span class="textbox">PGE Blue Mountain Calaveras</span>
+        
+    </h1>
+</body>
+</center>
 
 <center><iframe src= "https://webcams.windy.com/webcams/public/embed/player/1604848323/day?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ3ZWJjYW1faWQiOjE2MDQ4NDgzMjMsInVzZXJfdHlwZSI6MSwiYXZhaWxhYmxlX3NpemVzIjoidGVhc2VyYmcsaWNvbix0aHVtYm5haWwscHJldmlldyxub3JtYWwsZnVsbCxwYW5vcmFtYSIsImlhdCI6MTcyMTk4MDA3OSwiZXhwIjoxNzIyMDY2NDc5fQ.vjOlqSgsCCLVm7YY_7fFonArjwdempPCW9L-yGBHY3M&autoPlay=1" width="1600px" height="904px" frameborder="0" allowfullscreen> </iframe></center>
 
@@ -223,13 +421,63 @@ body{
 <p>
 
 
-   <center>USFS North Mokelumne Webcam</center>
+  
+
+ <center><!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <style>
+        .textbox {
+            width: 110px;
+            height: 32px;
+            background-color: #FFFFFF;
+            padding: 20px -20px 20px 20px;
+            border: 5px solid black;
+            margin: 0;
+        }
+    </style>
+</head>
+
+<body>
+   
+    </p>
+    <h1>
+<span class="textbox">USFS North Mokelumne Webcam</span>
+        
+    </h1>
+</body>
+</center>
 
   <center><img src="http://api.nvseismolab.org/camera/Axis-NorthMok"  width="1600" height="904"></center>
 
 
-  <center>Bear Valley Webcam</center>
+ 
+ <center><!DOCTYPE html>
+<html lang="en">
 
+<head>
+    <style>
+        .textbox {
+            width: 110px;
+            height: 32px;
+            background-color: #FFFFFF;
+            padding: 20px -20px 20px 20px;
+            border: 5px solid black;
+            margin: 0;
+        }
+    </style>
+</head>
+
+<body>
+   
+    </p>
+    <h1>
+<span class="textbox">Bear Valley Webcam</span>
+        
+    </h1>
+</body>
+</center>
   <center><img src="http://quakingaspen.ath.cx/axis-cgi/jpg/image.cgi"  width="1600" height="904"></center>
   
 <br>
@@ -237,7 +485,31 @@ body{
 <p>
 
      
-  <center>Bear Valley Webcam</center>
+ <center><!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <style>
+        .textbox {
+            width: 110px;
+            height: 32px;
+            background-color: #FFFFFF;
+            padding: 20px -20px 20px 20px;
+            border: 5px solid black;
+            margin: 0;
+        }
+    </style>
+</head>
+
+<body>
+   
+    </p>
+    <h1>
+<span class="textbox">Bear Valley Webcam</span>
+        
+    </h1>
+</body>
+</center>
 
 
 <center><img src="https://www.bearvalley.com/uploads/2018/04/public_html/uploads/2018/04/bvrelivecam.jpg" width="1600" height="904"></center>
@@ -245,7 +517,31 @@ body{
 
 <p>
 
-  <center>Bear Valley Adventure Webcam</center>
+ <center><!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <style>
+        .textbox {
+            width: 110px;
+            height: 32px;
+            background-color: #FFFFFF;
+            padding: 20px -20px 20px 20px;
+            border: 5px solid black;
+            margin: 0;
+        }
+    </style>
+</head>
+
+<body>
+   
+    </p>
+    <h1>
+<span class="textbox">Bear Valley Adventure Webcam</span>
+        
+    </h1>
+</body>
+</center>
 <center><iframe src="https://player.castr.com/live_a7fa65807aad11ee95f4c92148b8be4d" width="1600px" height="904px" frameborder="0" allowfullscreen> </iframe></center>
 
 <br>
@@ -253,7 +549,31 @@ body{
 
 <p>
 
-   <center>Bear Valley Ski Resort Basecam Webcam</center>
+ <center><!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <style>
+        .textbox {
+            width: 110px;
+            height: 32px;
+            background-color: #FFFFFF;
+            padding: 20px -20px 20px 20px;
+            border: 5px solid black;
+            margin: 0;
+        }
+    </style>
+</head>
+
+<body>
+   
+    </p>
+    <h1>
+<span class="textbox">Bear Valley Ski Resort Basecam Webcam</span>
+        
+    </h1>
+</body>
+</center>
   <br>
 
 <p>
