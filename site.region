@@ -45,7 +45,7 @@ body{
 <body>
   
     <h1>
-        <span class="Please donate here!">Tutorials</span>
+        <span class="textbox">Please donate below!</span>Point
     </h1>
 </body>
 </center>
