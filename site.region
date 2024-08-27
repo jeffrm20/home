@@ -35,7 +35,8 @@ body{
 
 
 <hr>
-<center>click logo below to check out our Instagram page</center>
+
+<span class="textbox">Click logo below to check out our Instagram page</span>
 
 <center><a href="https://instagram.com/motherlode_outdoors"> <img src="https://github.com/jeffrm20/home/blob/master/Images/iglogo.jpg?raw=true"> </a></center>
 
