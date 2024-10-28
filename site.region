@@ -678,7 +678,8 @@ body{
 
 
 
-<div class="powr-hit-counter" id="1f8bfcb4_1722043297"></div><script src="https://www.powr.io/powr.js?platform=squarespace"style="padding:1px;border:thick solid black;"></script>
+<center><script src="https://cdn.commoninja.com/sdk/latest/commonninja.js" defer></script>
+<div class="commonninja_component pid-92bdf2e9-2f36-4fd5-a444-b94c679209d6"></div></center>
 
 
 
