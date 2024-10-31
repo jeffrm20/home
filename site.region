@@ -560,30 +560,7 @@ body{
 </center>
   <center><img src="http://quakingaspen.ath.cx/mjpg/video.mjpg"  width="1600" height="904"style="padding:1px;border:thick solid black;"></center>
 
-<html>
-<head>
-<title>My Web Page</title>
-</head>
-<body>
-<video controls autoplay width="1600" height="904">
-<source src="http://quakingaspen.ath.cx/mjpg/video.mjpg" type="application/x-mpegURL">
-</video>
-</body>
-</html>
 
-<html>
-<head>
-<title>My Web Page</title>
-<script>
-var i=0;
-var url="http://quakingaspen.ath.cx/mjpg/video.mjpg";
-function jsUpdate() {document.image.src=url+"&"+(i++);}
-</script>
-</head>
-<body onLoad="jsUpdate()">
-<img name="image" onLoad="jsUpdate()">
-</body>
-</html>
   <hr>
 <br>
 <hr>
