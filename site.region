@@ -183,10 +183,12 @@
         <hr>
 
         <h1><span class="textbox">Bear Valley Ski Resort Basecam Webcam - Elevation 7677'</span></h1>
-        <iframe src="https://www.youtube.com/embed/KHZBwi45bJQ?si=kewBgtsxNtknW_TJ?autoplay=1" width="800px" height="452px" frameborder="0" allowfullscreen allow='autoplay'></iframe>
+        
+
+<iframe src="https://www.youtube.com/embed/KHZBwi45bJQ?si=kewBgtsxNtknW_TJ?autoplay=1" name="youtube embed" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 <br><p>
         <hr>
-
+<br><p>
         <div align="center">
             <img alt="Visitor Stats" src="https://widgetbite.com/stats/<jeffrm20>" />
         </div>
