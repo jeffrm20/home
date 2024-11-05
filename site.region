@@ -10,8 +10,9 @@
             background-color: black;
             background-size: cover;
             background-attachment: fixed;
-            color: white;
+            color: black;
             font-family: Arial, sans-serif;
+            font-color: black;
         }
 
         .textbox {
