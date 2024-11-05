@@ -566,7 +566,7 @@ body{
   
 
 
-<center><img src="https://quakingaspen.ath.cx/jpg/image.jpg?raw=true"style="padding:1px;border:thick solid white;">
+<img style="display: block;-webkit-user-select: none;margin: auto;cursor: zoom-out;background-color: hsl(0, 0%, 90%);transition: background-color 300ms;" src="http://quakingaspen.ath.cx/jpg/image.jpg" width="800" height="500">
 
 
 <hr>
