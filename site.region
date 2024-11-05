@@ -41,7 +41,6 @@
         }
 
         iframe {
-            width: 100%;
             
             border: 5px solid white;
         }
