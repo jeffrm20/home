@@ -345,9 +345,16 @@ body{
 </body>
 </center>
 
+<html>
 
 
-<center><img src="http://www.bigtreeshome.com/driveway-current.jpg" width="1600" height="904"style="padding:1px;border:thick solid black;"></center>
+<body>
+  <center><img src="http://www.bigtreeshome.com/driveway-current.jpg" width="1600" height="904"style="padding:1px;border:thick solid black;"></center>
+</body>
+
+</html>
+
+
 <hr>
 <br>
 <hr>
