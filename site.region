@@ -89,28 +89,28 @@
 -->
 						<h1>Radar</h1>
 						<a id="" href="https://radar.weather.gov/ridge/standard/PACSOUTHWEST_loop.gif"><img src="https://radar.weather.gov/ridge/standard/PACSOUTHWEST_loop.gif" alt="" title="NWS Southwest RegionalRadar" /></a> </center>
-        <h1><span class="textbox">Motherlode Outdoors Hathaway Pines Webcam - Elevation 3421'</span></h1>
-        <iframe src="https://g1.ipcamlive.com/player/player.php?alias=66a03954527af&skin=white&autoplay=1&mute=1&disableuserpause=1" allowfullscreen></iframe>
+       <center> <h1><span class="textbox">Motherlode Outdoors Hathaway Pines Webcam - Elevation 3421'</span></h1></center>
+       <center> <iframe src="https://g1.ipcamlive.com/player/player.php?alias=66a03954527af&skin=white&autoplay=1&mute=1&disableuserpause=1" allowfullscreen></iframe></center>
         <hr>
 
-        <h1><span class="textbox">Motherlode Outdoors Hathaway Pines Timelapse</span></h1>
-        <iframe src="https://g1.ipcamlive.com/player/timelapse.php?alias=66a03954527af&date=YYYY-MM-DD" allowfullscreen></iframe>
+        <center><h1><span class="textbox">Motherlode Outdoors Hathaway Pines Timelapse</span></h1></center>
+        <center><iframe src="https://g1.ipcamlive.com/player/timelapse.php?alias=66a03954527af&date=YYYY-MM-DD" allowfullscreen></iframe></center>
         <hr>
 
-        <h1><span class="textbox">Lakemont HOA Arnold Webcam - Elevation 3,800'</span></h1>
-        <img src="https://www.lakemontpines.org/webcam1/Cam1.jpg" alt="Lakemont Webcam">
+        <center><h1><span class="textbox">Lakemont HOA Arnold Webcam - Elevation 3,800'</span></h1></center>
+        <center><img src="https://www.lakemontpines.org/webcam1/Cam1.jpg" alt="Lakemont Webcam"></center>
         <hr>
 
-        <h1><span class="textbox">Arnold Better Altitude Webcam - Elevation 4,000'</span></h1>
-        <iframe src="//video.nest.com/embedded/live/1vU1V7Dils?autoplay=1" allowfullscreen></iframe>
+        <center><h1><span class="textbox">Arnold Better Altitude Webcam - Elevation 4,000'</span></h1></center>
+        <center><iframe src="//video.nest.com/embedded/live/1vU1V7Dils?autoplay=1" allowfullscreen></iframe></center>
         <hr>
 
-        <h1><span class="textbox">Arnold CA Real Estate Webcam - Elevation 4,050'</span></h1>
-        <iframe src="https://g1.ipcamlive.com/player/player.php?alias=6729b3d63535d" allowfullscreen></iframe>
+        <center><h1><span class="textbox">Arnold CA Real Estate Webcam - Elevation 4,050'</span></h1></center>
+        <center><iframe src="https://g1.ipcamlive.com/player/player.php?alias=6729b3d63535d" allowfullscreen></iframe></center>
         <hr>
 
-        <h1><span class="textbox">Blue Lake Springs Webcam - Elevation 4,050'</span></h1>
-        <iframe src="https://mccarthy.3deye.me/Embed?widget_id=dafbd0808a14481faf3831ba4d1a1afd&widget_token=LcqtRh8WQD6eSS2oQS9mppbSpPDEdxxLEMPLYu5uMYTFgE6HARL5xCz0B7ECezsxKrAGcQV0ujaw33LLR1ERMzsCrUjzQ1Qrf0ztEXeP1pInbD6ESYpiVBLp86TnG1KyyOqBbWgZWUV3reaovfHXkh2EPKuGdviAfoUSR3c1RvRBko6Z4ewaTrOqrmRWbaVALVWcPN5Z77363020a9844a2ca8e8feb1195f4ce4" allowfullscreen></iframe>
+        <center><h1><span class="textbox">Blue Lake Springs Webcam - Elevation 4,050'</span></h1></center>
+        <center><iframe src="https://mccarthy.3deye.me/Embed?widget_id=dafbd0808a14481faf3831ba4d1a1afd&widget_token=LcqtRh8WQD6eSS2oQS9mppbSpPDEdxxLEMPLYu5uMYTFgE6HARL5xCz0B7ECezsxKrAGcQV0ujaw33LLR1ERMzsCrUjzQ1Qrf0ztEXeP1pInbD6ESYpiVBLp86TnG1KyyOqBbWgZWUV3reaovfHXkh2EPKuGdviAfoUSR3c1RvRBko6Z4ewaTrOqrmRWbaVALVWcPN5Z77363020a9844a2ca8e8feb1195f4ce4" allowfullscreen></iframe></center>
         <hr>
 
         <h1><span class="textbox">Big Trees Webcam - Elevation 5,100'</span></h1>
