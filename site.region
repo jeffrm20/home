@@ -561,14 +561,18 @@ body{
 <html>
 <body>
 
-<h2>Axis Camera Live View</h2>
-<img src="http://quakingaspen.ath.cx/mjpg/video.mjpg" alt="AXIS LIVE" width="500" height="333">
 
 
-<video data-title="Live stream">
-<source type="application/x-mpegurl"
-        src="http://quakingaspen.ath.cx/mjpg/video.mjpg">
-   </video>
+<embed type="video/x-ms-asf" 
+src="http://quakingaspen.ath.cx/mjpg/video.mjpg"
+width="352"
+height="288"
+name="Front"
+autostart="1"
+autoplay="1"
+showcontrols="0"
+controller="0">
+</embed>
 
 
 </body>
