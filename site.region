@@ -559,14 +559,14 @@ body{
 </center>
 
 <html>
-<body>
-</body>
+
+
 </center>
 
-  <center><img src="http://quakingaspen.ath.cx/jpg/image.jpg"  width="1600" height="904"style="padding:1px;border:thick solid black;"></center>
+  
 
 
-<img src="http://quakingaspen.ath.cx/jpg/image.jpg">
+<img src="quakingaspen.ath.cx/jpg/image.jpg">
 
 
 <hr>
@@ -577,8 +577,7 @@ body{
 
 
 
-</body>
-</html>
+
 <br>
 <hr>
   <hr>
