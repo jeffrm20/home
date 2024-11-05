@@ -68,7 +68,28 @@
         <h1><span class="textbox">Please help keep this page running by donating below. Use phone camera to open QR code</span></h1>
         <img src="https://github.com/jeffrm20/home/blob/master/Images/pay.jpeg?raw=true" width="640" height="680" alt="QR Code">
         <hr>
+<h1>Highway 4 Status</h1>
 
+<!-- Comment out lld way of capturing highway status from caltrans site -->
+						<p></p>
+
+<iframe 
+	width="640px" 
+	height="620px" 
+	style="overflow-x:hidden; overflow-y:hidden;border:1px lightgrey solid;"
+	src="https://roads.dot.ca.gov/"
+>
+</iframe>
+
+						<div class="credit">Data provided by the <a href="http://www.dot.ca.gov/cgi-bin/roads.cgi">Department of Transportation</a></div>
+					</div>
+					<div id="radar" class="mainSection">
+<!-- Comment out old satellite link
+						<h1>Satellite</h1>
+						<a id="" href="http://www.ssd.noaa.gov/goes/west/wfo/sto/cvis.jpg"><img src="http://www.ssd.noaa.gov/goes/west/wfo/sto/cvis.jpg" alt="" title="Visible satellite image from Sacramento" /></a>
+-->
+						<h1>Radar</h1>
+						<a id="" href="https://radar.weather.gov/ridge/standard/PACSOUTHWEST_loop.gif"><img src="https://radar.weather.gov/ridge/standard/PACSOUTHWEST_loop.gif" alt="" title="NWS Southwest RegionalRadar" /></a>
         <h1><span class="textbox">Motherlode Outdoors Hathaway Pines Webcam - Elevation 3421'</span></h1>
         <iframe src="https://g1.ipcamlive.com/player/player.php?alias=66a03954527af&skin=white&autoplay=1&mute=1&disableuserpause=1" allowfullscreen></iframe>
         <hr>
