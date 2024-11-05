@@ -519,7 +519,7 @@ body{
 </body>
 </center>
 
- <img data-v-b50c68d8="" src="//s3-us-west-2.amazonaws.com/alertwildfire-data-public/Axis-NorthMok/latest_thumb.jpg?x-request-time=1730781134" alt="North Mokelumne" width="240" height="138" class="img-fluid w-100">
+<iframe width="100%" height="100%" src="https://webcams.windy.com/webcams/public/embed/player/1604847302/day" frameborder="0"></iframe>
  
  <center><!DOCTYPE html>
 <html lang="en">
