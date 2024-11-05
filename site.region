@@ -24,7 +24,7 @@
             text-align: center;
             font-size: 18px;
             font-weight: bold;
-document.body.style.color = "white";
+            document.body.style.color = "black";
         }
 
         .centered {
