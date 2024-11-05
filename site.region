@@ -350,83 +350,18 @@ body{
 <html>
 
 
-<body>
-  <center><img src="http://www.bigtreeshome.com/driveway-current.jpg" width="1600" height="904"style="padding:1px;border:thick solid black;"></center>
-</body>
-
-</html>
-
-
-<hr>
-<br>
-<hr>
-<br>
-
-<p>
-
-
-   <center><!DOCTYPE html>
-<html lang="en">
-
-<head>
-    <style>
-        .textbox {
-            width: 110px;
-            height: 32px;
-            background-color: #FFFFFF;
-            padding: 20px -20px 20px 20px;
-            border: 5px solid black;
-            margin: 0;
-        }
-    </style>
-</head>
-
-<body>
-   
-    </p>
-    <h1>
-<span class="textbox">Big Trees Webcam - Elevation 5,100'</span>
-        
-    </h1>
-</body>
-</center>
-
-  <center><img src="http://bigtreeshome.com/chimney-current.jpg"  width="1600" height="904"style="padding:1px;border:thick solid black;"></center>
-
-<hr>
-<br>
-<hr>
-<br>
-
-<p>
-
-    <center><!DOCTYPE html>
-<html lang="en">
-
-<head>
-    <style>
-        .textbox {
-            width: 110px;
-            height: 32px;
-            background-color: #FFFFFF;
-            padding: 20px -20px 20px 20px;
-            border: 5px solid black;
-            margin: 0;
-        }
-    </style>
-</head>
-
-<body>
-   
-    </p>
-    <h1>
-<span class="textbox">Big Trees Webcam - Elevation 5,100'</span>
-        
-    </h1>
-</body>
-</center>
-  <center><img src="http://bigtreeshome.com/front-current.jpg"  width="1600" height="904"style="padding:1px;border:thick solid black;"></center>
-
+<div id="DrivewayImage" class="mainSection">
+						<h1>Driveway View</h1>
+						<a id="" href="driveway-current.jpg"><img src="driveway-current.jpg" style="width: 640px; height: 400px;" alt="" title="driveway-cam image" /></a>
+					</div>
+					<div id="ChimneyImage" class="mainSection">
+						<h1>Chimney View</h1>
+						<a id="" href="chimney-current.jpg"><img src="chimney-current.jpg" style="width: 640px; height: 480px;" alt="" title="chimney-cam image" /></a>
+					</div>
+					<div id="FrontImage" class="mainSection">
+						<h1>Front View</h1>
+						<a id="" href="front-current.jpg"><img src="front-current.jpg" style="width: 640px; height: 480px;" alt="" title="front-cam image" /></a>
+					</div>
 <hr>
 <br>
 <hr>
