@@ -1,7 +1,7 @@
 <html>
 
 <title>Highway 4 Webcams</title>
-<head>
+
     <style>
         .textbox {
             width: 110px;
@@ -12,9 +12,9 @@
             margin: 0;
         }
     </style>
-</head>
-<!DOCTYPE html>
-<html>
+
+
+
 <style>
 
 body{
@@ -54,8 +54,7 @@ body{
 
 <hr>
 <head>
-   <center><!DOCTYPE html>
-<html lang="en">
+   <center>
 
 
 
@@ -84,8 +83,8 @@ body{
 <hr>
  
 
-   <center><!DOCTYPE html>
-<html lang="en">
+   <center>
+
 
 <head>
     <style>
@@ -122,10 +121,10 @@ body{
 <p>
 
 
-   <center><!DOCTYPE html>
-<html lang="en">
+   <center>
 
-<head>
+
+
     <style>
         .textbox {
             width: 110px;
@@ -136,7 +135,7 @@ body{
             margin: 0;
         }
     </style>
-</head>
+
 
 <body>
    
@@ -161,8 +160,7 @@ body{
 <p>
 
 
- <center><!DOCTYPE html>
-<html lang="en">
+ <center>
 
 <head>
     <style>
@@ -199,10 +197,9 @@ body{
 
  
 
- <center><!DOCTYPE html>
-<html lang="en">
+ <center>
 
-<head>
+
     <style>
         .textbox {
             width: 110px;
@@ -213,7 +210,7 @@ body{
             margin: 0;
         }
     </style>
-</head>
+
 
 <body>
    
@@ -234,10 +231,9 @@ body{
 <p>
 
 
- <center><!DOCTYPE html>
-<html lang="en">
+ <center>
 
-<head>
+
     <style>
         .textbox {
             width: 110px;
@@ -248,7 +244,6 @@ body{
             margin: 0;
         }
     </style>
-</head>
 
 <body>
    
@@ -285,10 +280,9 @@ body{
 <p>
 
 
- <center><!DOCTYPE html>
-<html lang="en">
+ <center>
 
-<head>
+
     <style>
         .textbox {
             width: 110px;
@@ -299,7 +293,7 @@ body{
             margin: 0;
         }
     </style>
-</head>
+
 
 <body>
    
@@ -321,10 +315,9 @@ body{
 <p>
 
 
- <center><!DOCTYPE html>
-<html lang="en">
+ <center>
 
-<head>
+
     <style>
         .textbox {
             width: 110px;
@@ -335,7 +328,7 @@ body{
             margin: 0;
         }
     </style>
-</head>
+
 
 <body>
    
@@ -347,7 +340,7 @@ body{
 </body>
 </center>
 
-<html>
+
 
 
 <div id="DrivewayImage" class="mainSection">
@@ -372,10 +365,9 @@ body{
 
 
 
- <center><!DOCTYPE html>
-<html lang="en">
+ <center>
 
-<head>
+
     <style>
         .textbox {
             width: 110px;
@@ -386,7 +378,7 @@ body{
             margin: 0;
         }
     </style>
-</head>
+
 
 <body>
    
@@ -448,10 +440,9 @@ body{
 
   
 
- <center><!DOCTYPE html>
-<html lang="en">
+ <center>
 
-<head>
+
     <style>
         .textbox {
             width: 110px;
@@ -462,7 +453,7 @@ body{
             margin: 0;
         }
     </style>
-</head>
+
 
 <body>
    
@@ -504,10 +495,9 @@ body{
 <p>
 
      
- <center><!DOCTYPE html>
-<html lang="en">
+ <center>
 
-<head>
+
     <style>
         .textbox {
             width: 110px;
@@ -518,13 +508,12 @@ body{
             margin: 0;
         }
     </style>
-</head>
 
 
- <center><!DOCTYPE html>
-<html lang="en">
 
-<head>
+ <center>
+
+
     <style>
         .textbox {
             width: 110px;
@@ -535,7 +524,7 @@ body{
             margin: 0;
         }
     </style>
-</head>
+
 
 <body>
    
@@ -555,10 +544,9 @@ body{
 
 <p>
 
- <center><!DOCTYPE html>
-<html lang="en">
+ <center>
 
-<head>
+
     <style>
         .textbox {
             width: 110px;
@@ -569,7 +557,7 @@ body{
             margin: 0;
         }
     </style>
-</head>
+
 
 <body>
    
@@ -605,3 +593,4 @@ body{
 
   
 
+</html>
