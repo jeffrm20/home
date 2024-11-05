@@ -269,10 +269,10 @@ http://<camera-ip>/livevid.html
 
 <center><img src="http://173.160.20.133/now.jpg?snap=spush"width="640" height="680"style="padding:1px;border:thick solid black;"></center>
 
-<center><iframe type="text/html" frameborder="15" width="1600" height="900" src="http://<camera-ip>/livevid.html" allowfullscreen></iframe></center>
+<center><iframe type="text/html" frameborder="15" width="1600" height="900" src="http://173.160.20.133/livevid.html" allowfullscreen></iframe></center>
 
 
-<img border="0" width="720" height="480" onmousedown="return false;" src="http://<camera-ip>/livevid.html">
+<img border="0" width="720" height="480" onmousedown="return false;" src="http://173.160.20.133/livevid.html">
 
   <hr>
 <br>
