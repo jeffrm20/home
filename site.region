@@ -552,7 +552,7 @@ body{
    
     </p>
     <h1>
-<span class="textbox">Bear Valley Webcam - Elevation 7106'</span>
+<span class="textbox">Quaking Aspen Bear Valley Webcam - Elevation 7106'</span>
         
     </h1>
 </body>
@@ -560,19 +560,17 @@ body{
 
 <html>
 <body>
+</body>
+</center>
+
+  <center><img src="http://quakingaspen.ath.cx/jpg/image.jpg"  width="1600" height="904"style="padding:1px;border:thick solid black;"></center>
+
+<hr>
+<br>
+<hr>
 
 
 
-<embed type="video/x-ms-asf" 
-src="http://quakingaspen.ath.cx/mjpg/video.mjpg"
-width="352"
-height="288"
-name="Front"
-autostart="1"
-autoplay="1"
-showcontrols="0"
-controller="0">
-</embed>
 
 
 </body>
