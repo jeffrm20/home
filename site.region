@@ -559,7 +559,10 @@ body{
 </center>
   <center><img src="http://quakingaspen.ath.cx/mjpg/video.mjpg"  width="1600" height="904"style="padding:1px;border:thick solid black;"></center>
 <center><iframe src= "http://quakingaspen.ath.cx/mjpg/video.mjpg" width="1600px" height="904px" frameborder="15" allowfullscreen> </iframe></center>
-
+<center><iframe width="1600" height="904" src="http://quakingaspen.ath.cx/mjpg/video.mjpg" title="Skyline Bear Valley Live Base Cam" frameborder="15" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></center>
+  <hr>
+<br>
+<hr>
   <hr>
 <br>
 <hr>
@@ -584,24 +587,6 @@ body{
     </style>
 </head>
 
-<body>
-   
-    </p>
-    <h1>
-<span class="textbox">Bear Valley Webcam - Elevation 7106'</span>
-        
-    </h1>
-</body>
-</center>
-
-
-<center><img src="https://www.bearvalley.com/uploads/2018/04/public_html/uploads/2018/04/bvrelivecam.jpg" width="1600" height="904"style="padding:1px;border:thick solid black;"></center>
-<hr>
-<br>
-<hr>
-<br>
-
-<p>
 
  <center><!DOCTYPE html>
 <html lang="en">
