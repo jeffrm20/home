@@ -259,7 +259,165 @@ body{
 </center>
 
 
-<center><img src="http://173.160.20.133/now.jpg" width="1600" height="904"style="padding:1px;border:thick solid black;"></center>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<meta http-equiv="Content-Script-Type" content="text/javascript">
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+<meta http-equiv="Pragma" content="no-cache">
+<meta http-equiv="expires" content="0">
+
+<link rel="stylesheet" href="style.css">
+<script  src="lib.js" ></script>
+<script  src="gui.js" ></script>
+<script>
+
+
+
+var streamDptzParam = '<param name="StreamDptz" value="0"><param name="InternalDptz" value="0">\n';
+var logging = '<param name="Logging" value="0">\n';
+var ds = 1;		
+var cropwidth = 720;	
+var cropheight = 480;	
+var image = new Object();
+
+
+if (isCondor && liveStreamJpegPortrait) {
+    var temp=cropwidth;
+    cropwidth=cropheight;
+    cropheight=temp;
+}
+
+
+var snap = "spush";		
+var src = "now.jpg";		
+var dsfactor = ds;		
+var dsstring = "";		
+var imAttr = " border=0";	
+var DEBUG = false;		
+var urimods=""; 
+                
+
+
+var needsApplet =  !canSpush && !UseActiveX();
+
+if (needsApplet && !isIE && !navigator.javaEnabled()) {
+    alert("You must enable Java for this page to work correctly.");
+}
+
+function handleURIMod(name, value) {
+    if (name=="src") src = unescape(value);
+    else if (name=="snap")   snap = unescape(value);
+    else if (name=="ds")     dsfactor = parseInt(value);
+    else if (name=="width") {
+	
+	if (isCondor && liveStreamJpegPortrait)
+	    image.height = value;
+	else
+	    image.width = value;
+    } else if (name=="height") {
+	
+	if (isCondor && liveStreamJpegPortrait)
+	    image.width = value;
+	else
+	    image.height = value;
+    } else if (name="DEBUG")   DEBUG = true;
+    else urimods += "?" + name + "=" + value;
+}
+
+function handleURIMods() {
+    var query = location.search.substring(1); 
+    query = query.replace(/\?/g,"&"); 
+    var pairs = query.split("&"); 
+
+    for (var i=0; i<pairs.length; i++) {
+	var pos = pairs[i].indexOf('=');
+	if (pos==-1) continue;
+	var name = pairs[i].substring(0,pos);
+	var value = pairs[i].substring(pos+1);
+	handleURIMod(name, value);
+    }
+
+    if (dsfactor != ds) dsstring = "?ds=" + dsfactor;
+    if (!image.width) image.width   = cropwidth/dsfactor;
+    if (!image.height) image.height =  cropheight/dsfactor;
+    imAttr += ' width="' + image.width + '" height="' + image.height + '"';;
+}
+
+handleURIMods();
+
+function writeImageDivs() {
+    var imageString = src + '?snap=' + snap +  urimods + dsstring;
+
+    if (needsApplet) {
+	var outString = '<applet code="ShowServerPush.class" name="spapplet" '
+	    + imAttr + '>\n'
+	    + '<param name="url" value=' + imageString + '>\n';
+	if (DEBUG) outString += '<param name="DEBUG" value="true">\n';
+	outString += '</applet>\n';
+	document.write(outString);
+    }
+    else {
+	document.write ('<div id="CtlDiv">ActiveX Control</div>');
+	CreateControl ("CtlDiv", imAttr, logging, streamDptzParam,
+		       isCamera_6, isCamera_7, imageString);
+    }
+}
+
+function stopApplet() {
+    var app = document.applets["spapplet"];
+    if (app) app.stop();
+    return false;
+}
+
+</script>
+</head>
+
+<body bgcolor="#FFFFFF"
+    leftmargin="0" rightmargin="0" topmargin="0" bottommargin="0"
+    onBeforeUnload="stopApplet();">
+
+<noscript><b>You must enable Javascript<br>to see an image.</b></noscript>
+<script>
+writeImageDivs();
+</script>
+</body>
+</html>
+
   <hr>
 <br>
 <hr>
