@@ -70,9 +70,9 @@
         <hr>
 <h1>Highway 4 Status</h1>
 
-<!-- Comment out lld way of capturing highway status from caltrans site -->
-						<p></p>
 
+						<p></p>
+<center>
 <iframe 
 	width="640px" 
 	height="620px" 
@@ -80,16 +80,15 @@
 	src="https://roads.dot.ca.gov/"
 >
 </iframe>
-
-						<div class="credit">Data provided by the <a href="http://www.dot.ca.gov/cgi-bin/roads.cgi">Department of Transportation</a></div>
+</center>
+					
 					</div>
-					<div id="radar" class="mainSection">
-<!-- Comment out old satellite link
+			<center>
 						<h1>Satellite</h1>
 						<a id="" href="http://www.ssd.noaa.gov/goes/west/wfo/sto/cvis.jpg"><img src="http://www.ssd.noaa.gov/goes/west/wfo/sto/cvis.jpg" alt="" title="Visible satellite image from Sacramento" /></a>
 -->
 						<h1>Radar</h1>
-						<a id="" href="https://radar.weather.gov/ridge/standard/PACSOUTHWEST_loop.gif"><img src="https://radar.weather.gov/ridge/standard/PACSOUTHWEST_loop.gif" alt="" title="NWS Southwest RegionalRadar" /></a>
+						<a id="" href="https://radar.weather.gov/ridge/standard/PACSOUTHWEST_loop.gif"><img src="https://radar.weather.gov/ridge/standard/PACSOUTHWEST_loop.gif" alt="" title="NWS Southwest RegionalRadar" /></a> </center>
         <h1><span class="textbox">Motherlode Outdoors Hathaway Pines Webcam - Elevation 3421'</span></h1>
         <iframe src="https://g1.ipcamlive.com/player/player.php?alias=66a03954527af&skin=white&autoplay=1&mute=1&disableuserpause=1" allowfullscreen></iframe>
         <hr>
