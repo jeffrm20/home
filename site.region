@@ -193,7 +193,8 @@
         <hr>
 <br><p>
         <div align="center">
-            <img alt="Visitor Stats" src="https://widgetbite.com/stats/<jeffrm20>" />
+           <script src="https://static.elfsight.com/platform/platform.js" async></script>
+<div class="elfsight-app-1bd07d2b-9b90-46e2-9fa5-6b6403d444de" data-elfsight-app-lazy></div>
         </div>
     </div>
 
